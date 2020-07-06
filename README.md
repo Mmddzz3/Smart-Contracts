@@ -5,6 +5,6 @@
    - [x] **setBidAmount** which sets the bidAmount from the bider.
    - [x] **determineEligibility** which determines the eligibility of the bider to perform the biding.
    
- ![](Images/Bider1.png)
- ![](Images/Bider2.png) 
- ![](Images/Bider3.png)
+ ![](Images/Bider1.PNG)
+ ![](Images/Bider2.PNG) 
+ ![](Images/Bider3.PNG)
